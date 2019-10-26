@@ -1,2 +1,3 @@
 # class-manager
-A personal class manager tool
+
+A GUI class manager app
